@@ -1,0 +1,10 @@
+body {
+    background-color:peru;
+    font-family: "robozo";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+link {
+    text-align: center;
+}
